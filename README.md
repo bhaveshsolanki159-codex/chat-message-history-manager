@@ -62,6 +62,3 @@ Undo send: [2025-08-20 10:30:12] Hello World
 
 ---
 
-👉 You can just copy this into a file named **README.md** in your project folder.  
-
-Do you also want me to add a **code snippet section** inside the README (so GitHub shows a preview of your chat manager logic)?
